@@ -71,6 +71,8 @@ await disconnect();
 
 > **Not:** `PRINTER_MAC` değeri her yazıcıda farklıdır. Kodu kendi projenize entegre ederken bu değeri mutlaka kendi yazıcınızın gerçek MAC adresiyle değiştirin, aksi halde bağlantı kurulamaz.
 
+> **Not:** Jar dosyasını indirmeyi unutmayın.
+
 ## API
 
 | Fonksiyon | Açıklama | Dönüş |
